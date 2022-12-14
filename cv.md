@@ -6,14 +6,15 @@
 + **Tel:**     *+375297980356*
 ---
 ###**About my:**
-*The purpose of my training is to master front-end development. Studied as a java developer but decided to try something new.*
----
+
+The purpose of my training is to master front-end development. Studied as a java developer but decided to try something new.
+
 ###**Skills:**
 + Java EE
 + Spring Boot
 + HTML
 + Git
----    
+---
 ###**Code Example:**
 ```
 for (int i = 0; i < a.length; i++) {
@@ -24,7 +25,7 @@ for (int i = 0; i < a.length; i++) {
 ---
 ###**Work:**
 *Nothing I'm learning.*
----
+
 ###**Education and courses:**
 + Java Developer courses on [TeachMeSkills](https://teachmeskills.by/kursy-programmirovaniya/obuchenie-java-minsk)
 + Git video courses on YouTube channel
